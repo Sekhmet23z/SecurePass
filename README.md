@@ -41,8 +41,6 @@ Chiffrement des mots de passe : Lors de l'enregistrement ou de la modification d
 
 ## Installation - Prérequis
 
-Python 3.x
-
 pip install -r requirements.txt
 
 Étapes d'installation
