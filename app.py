@@ -30,6 +30,7 @@ check_initial_files()
 # Initialisation de la suite de chiffrement avec la clé chargée
 cipher_suite = load_key()
 
+
 def connect_database():
     # Connexion à la base de données existante
     conn = sqlite3.connect(DB_PATH)
