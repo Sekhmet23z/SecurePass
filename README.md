@@ -69,7 +69,7 @@ python3 delete.py ou ./delete.py
 
 Ce script supprimera la base de données et la clé de chiffrement.
 
-##Utilisation
+## Utilisation
 
 Une fois l'application lancée via app.py, un menu interactif s'affichera dans le terminal :
 
@@ -85,7 +85,7 @@ Supprimer un mot de passe : Supprime un mot de passe de la base de données.
 
 Quitter : Quitte l'application.
 
-##Sécurité
+## Sécurité
 
 Les mots de passe sont stockés dans la base de données SQLite sous forme chiffrée.
 Seule la clé de chiffrement encryption.key permet de les déchiffrer.
