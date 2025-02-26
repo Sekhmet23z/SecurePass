@@ -1,13 +1,19 @@
-# SecurePass - Gestionnaire de mots de passe sécurisé
+## SecurePass - Gestionnaire de mots de passe sécurisé
 SecurePass est un gestionnaire de mots de passe développé en Python, permettant de générer, enregistrer, afficher, modifier et supprimer des mots de passe de manière sécurisée. Les mots de passe sont cryptés à l'aide de la bibliothèque cryptography et stockés dans une base de données SQLite.
 
 Fonctionnalités
 Générer un mot de passe : Génère des mots de passe aléatoires de longueur personnalisée.
+
 Enregistrer un mot de passe : Sauvegarde un mot de passe dans une base de données SQLite, après l'avoir chiffré.
+
 Voir les mots de passe enregistrés : Affiche tous les mots de passe enregistrés (déchiffrés à la volée).
+
 Modifier un mot de passe : Permet de modifier un mot de passe existant.
+
 Supprimer un mot de passe : Supprime un mot de passe existant de la base de données.
+
 Structure du projet
+
 Le projet est composé de trois scripts Python principaux :
 
 1. start.py
