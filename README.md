@@ -49,7 +49,7 @@ pip install -r requirements.txt
 
 Clonez le repository :
 
-git clone https://github.com/Sekhmet23z/SecurePass)
+git clone https://github.com/Sekhmet23z/SecurePass.git
 
 cd securepass
 
