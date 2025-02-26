@@ -27,12 +27,17 @@ Enregistrement et gestion des mots de passe : L'utilisateur peut enregistrer, af
 Chiffrement des mots de passe : Lors de l'enregistrement ou de la modification des mots de passe, ceux-ci sont chiffrés avec la clé de chiffrement.
 
 Installation - Prérequis
+
 Python 3.x
+
 pip install -r requirements.txt
 
 Étapes d'installation
+
 Clonez le repository :
-git clone https://votre-repository.git
+
+git clone https://github.com/Sekhmet23z/SecurePass)
+
 cd securepass
 
 Exécutez start.py pour créer la base de données et la clé de chiffrement :
